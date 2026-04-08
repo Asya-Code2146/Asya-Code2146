@@ -1,9 +1,87 @@
-<h1>Hi 👋, I'm Amrina Rasyada</h1>
+<!-- ================= HEADER / TYPING ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=99CCFF&size=32&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Amrina+Rasyada;Future+Web+Developer;Welcome+To+My+Galaxy🌌;Coding+is+My+Passion💻" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=✨+Amrina+Rasyada+✨;Future+Web+Developer;Welcome+To+My+Galaxy🌌)
+<!-- ================= BANNER GALAXY ================= -->
+<p align="center">
+  <img src="https://i.ibb.co/6Zc6XJH/galaxy.gif" width="100%" />
+</p>
 
-<p style="color:#00FF00;">
-💻 Web Developer Pemula <br>
-🚀 Suka bikin project keren <br>
-🌌 Welcome to my universe
+---
+
+<!-- ================= ABOUT ================= -->
+## 🌌 About Me
+💻 Web Developer Pemula  
+🚀 Lagi belajar HTML, CSS, PHP  
+🌠 Suka desain galaxy, neon, dan animasi  
+🎯 Target: jadi developer profesional  
+
+---
+
+<!-- ================= ANIMASI GARIS ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B263B&height=100&section=header"/>
+</p>
+
+---
+
+<!-- ================= SKILLS ================= -->
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,vscode,github,js" />
+</p>
+
+---
+
+<!-- ================= PLANET / GIF ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
+</p>
+
+---
+
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asya-Code2146&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asya-Code2146&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= TOP LANG ================= -->
+## 🔥 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asya-Code2146&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= TROPHY ================= -->
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asya-Code2146&theme=algolia&no-frame=true" />
+</p>
+
+---
+
+<!-- ================= QUOTE ================= -->
+## ✨ Quote
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=66CCFF&size=20&center=true&vCenter=true&width=500&lines=Keep+Learning+🚀;Never+Give+Up🔥;Dream+Big+🌌" />
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:0D1B2A&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  🌌 Made with 💙 by Amrina Rasyada
 </p>
