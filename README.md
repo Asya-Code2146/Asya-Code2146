@@ -1,13 +1,26 @@
 <div align="center">
 
-<!-- TERMINAL ANIMASI DENGAN TYPING EFFECT INTERAKTIF -->
-<a href="https://github.com/Asya-Code2146">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=false&vCenter=true&multiline=true&width=620&height=180&lines=%24+system.init(--user%3DAsya-Code2146);%3E+Name%3A+Amrina+Rasyada+(Asya_7);%3E+Role%3A+Future+Web+Developer;%3E+Status%3A+Building+Cool+Web+Apps...;%3E+Bio%3A+I+love+coding+%F0%9F%A5%B0%F0%9F%90%B6;%24+echo+%22Welcome+to+my+digital+workspace!%22" alt="Terminal Typing SVG" />
-</a>
+<img src="./terminal.svg" alt="Terminal profile Asya" width="100%"/>
+
+</div>
 
 <br/>
 
 ```text
- ╔═════════════════════════════════════════════════════════════════╗
- ║             SYSTEM PROFILE // ASYA_7 // DEV HUB                 ║
- ╚═════════════════════════════════════════════════════════════════╝
+> Hi, I'm Amrina Rasyada (Asya) ðŸ‘‹
+> I love coding ðŸ¥°
+```
+
+### ðŸ› ï¸ Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ðŸ“Š GitHub Stats
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Asya-Code2146&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asya-Code2146&layout=compact&theme=radical&hide_border=true)
+
+</div>
